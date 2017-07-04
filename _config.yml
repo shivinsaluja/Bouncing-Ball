@@ -1,1 +1,7 @@
+
+deploy:
+type: git
+repo: <repository url>
+branch: [branch]
 theme: jekyll-theme-slate
+message: [message]
